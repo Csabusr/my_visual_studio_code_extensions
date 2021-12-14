@@ -1,11 +1,17 @@
-# VS Code Settings
+## VS Code Settings
+###### based on w3cj config
+
+<hr>
 
 ## Font
 
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 
-## Theme
+## Theme/Color
   * [Just Black](https://marketplace.visualstudio.com/items?itemName=nur.just-black)
+  * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+  * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer)
+    * Matching parenthesis and curly brackets to with colors
 
 ## Style/Formatting
 
