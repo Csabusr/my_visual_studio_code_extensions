@@ -40,3 +40,9 @@ kiteco.kite
 yzhang.markdown-all-in-one
 humao.rest-client
 dsznajder.es7-react-js-snippets
+davidanson.vscode-markdownlint
+ecmel.vscode-html-css
+tht13.html-preview-vscode
+abusaidm.html-snippets
+firefox-devtools.vscode-firefox-debug
+vscode-icons-team.vscode-icons

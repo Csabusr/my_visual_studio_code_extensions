@@ -300,6 +300,8 @@ while read line; do code --install-extension "$line";done < vscode-extensions.tx
 
 ## For Windows Users (*.Ps1)
 
+To allow scripts in PowerShell, open as Administrator and use this command: set-executionpolicy remotesigned
+
 ```powershell
 $extensions =
         "alexcvzz.vscode-sqlite",
